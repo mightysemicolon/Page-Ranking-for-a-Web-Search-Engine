@@ -57,7 +57,3 @@ At the bottom there are URLs with a single incoming link, like individual GitHub
 ## Requirements
 
 numpy, pandas, matplotlib, networkx (only for drawing the graph, that cell is slow)
-
-## Reference
-
-Lars Eldén, *Matrix Methods in Data Mining and Pattern Recognition*, SIAM. Chapter on page ranking for a web search engine.
